@@ -69,6 +69,3 @@ Hello, World!
 - Git
 - GitHub
 
-## Status
-
-✅ Day 01 completed successfully.
