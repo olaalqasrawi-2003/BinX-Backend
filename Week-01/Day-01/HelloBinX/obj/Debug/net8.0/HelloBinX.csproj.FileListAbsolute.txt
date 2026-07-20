@@ -1,0 +1,14 @@
+C:\Users\Bisan\HelloBinX\bin\Debug\net8.0\HelloBinX.exe
+C:\Users\Bisan\HelloBinX\bin\Debug\net8.0\HelloBinX.deps.json
+C:\Users\Bisan\HelloBinX\bin\Debug\net8.0\HelloBinX.runtimeconfig.json
+C:\Users\Bisan\HelloBinX\bin\Debug\net8.0\HelloBinX.dll
+C:\Users\Bisan\HelloBinX\bin\Debug\net8.0\HelloBinX.pdb
+C:\Users\Bisan\HelloBinX\obj\Debug\net8.0\HelloBinX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bisan\HelloBinX\obj\Debug\net8.0\HelloBinX.AssemblyInfoInputs.cache
+C:\Users\Bisan\HelloBinX\obj\Debug\net8.0\HelloBinX.AssemblyInfo.cs
+C:\Users\Bisan\HelloBinX\obj\Debug\net8.0\HelloBinX.csproj.CoreCompileInputs.cache
+C:\Users\Bisan\HelloBinX\obj\Debug\net8.0\HelloBinX.dll
+C:\Users\Bisan\HelloBinX\obj\Debug\net8.0\refint\HelloBinX.dll
+C:\Users\Bisan\HelloBinX\obj\Debug\net8.0\HelloBinX.pdb
+C:\Users\Bisan\HelloBinX\obj\Debug\net8.0\HelloBinX.genruntimeconfig.cache
+C:\Users\Bisan\HelloBinX\obj\Debug\net8.0\ref\HelloBinX.dll

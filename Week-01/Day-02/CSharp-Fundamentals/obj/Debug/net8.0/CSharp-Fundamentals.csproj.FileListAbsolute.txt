@@ -1,0 +1,14 @@
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-02\CSharp-Fundamentals\bin\Debug\net8.0\CSharp-Fundamentals.exe
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-02\CSharp-Fundamentals\bin\Debug\net8.0\CSharp-Fundamentals.deps.json
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-02\CSharp-Fundamentals\bin\Debug\net8.0\CSharp-Fundamentals.runtimeconfig.json
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-02\CSharp-Fundamentals\bin\Debug\net8.0\CSharp-Fundamentals.dll
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-02\CSharp-Fundamentals\bin\Debug\net8.0\CSharp-Fundamentals.pdb
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-02\CSharp-Fundamentals\obj\Debug\net8.0\CSharp-Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-02\CSharp-Fundamentals\obj\Debug\net8.0\CSharp-Fundamentals.AssemblyInfoInputs.cache
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-02\CSharp-Fundamentals\obj\Debug\net8.0\CSharp-Fundamentals.AssemblyInfo.cs
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-02\CSharp-Fundamentals\obj\Debug\net8.0\CSharp-Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-02\CSharp-Fundamentals\obj\Debug\net8.0\CSharp-Fundamentals.dll
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-02\CSharp-Fundamentals\obj\Debug\net8.0\refint\CSharp-Fundamentals.dll
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-02\CSharp-Fundamentals\obj\Debug\net8.0\CSharp-Fundamentals.pdb
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-02\CSharp-Fundamentals\obj\Debug\net8.0\CSharp-Fundamentals.genruntimeconfig.cache
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-02\CSharp-Fundamentals\obj\Debug\net8.0\ref\CSharp-Fundamentals.dll
