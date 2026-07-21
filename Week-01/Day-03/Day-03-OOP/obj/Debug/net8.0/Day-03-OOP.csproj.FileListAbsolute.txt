@@ -1,0 +1,15 @@
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-03\Day-03-OOP\bin\Debug\net8.0\Day-03-OOP.exe
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-03\Day-03-OOP\bin\Debug\net8.0\Day-03-OOP.deps.json
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-03\Day-03-OOP\bin\Debug\net8.0\Day-03-OOP.runtimeconfig.json
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-03\Day-03-OOP\bin\Debug\net8.0\Day-03-OOP.dll
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-03\Day-03-OOP\bin\Debug\net8.0\Day-03-OOP.pdb
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-03\Day-03-OOP\obj\Debug\net8.0\Day-03-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-03\Day-03-OOP\obj\Debug\net8.0\Day-03-OOP.AssemblyInfoInputs.cache
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-03\Day-03-OOP\obj\Debug\net8.0\Day-03-OOP.AssemblyInfo.cs
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-03\Day-03-OOP\obj\Debug\net8.0\Day-03-OOP.csproj.CoreCompileInputs.cache
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-03\Day-03-OOP\obj\Debug\net8.0\Day-03-OOP.sourcelink.json
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-03\Day-03-OOP\obj\Debug\net8.0\Day-03-OOP.dll
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-03\Day-03-OOP\obj\Debug\net8.0\refint\Day-03-OOP.dll
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-03\Day-03-OOP\obj\Debug\net8.0\Day-03-OOP.pdb
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-03\Day-03-OOP\obj\Debug\net8.0\Day-03-OOP.genruntimeconfig.cache
+C:\Users\Bisan\BinX-Backend-Internship\Week-01\Day-03\Day-03-OOP\obj\Debug\net8.0\ref\Day-03-OOP.dll
