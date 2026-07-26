@@ -18,7 +18,6 @@ This repository contains my work and progress during the BinX Backend Internship
 - Installed the .NET SDK.
 - Configured Visual Studio Code.
 - Created and ran the first C# console application.
-- Initialized a Git repository.
 - Connected the project to GitHub.
 
 ---
@@ -36,9 +35,8 @@ This repository contains my work and progress during the BinX Backend Internship
 - Methods
 
 ### Hands-on Lab
-- Implemented console applications using C# fundamentals.
+- Built multiple console programs using C# fundamentals.
 - Practiced variables, operators, conditions, loops, arrays, and methods.
-- Built simple programs to strengthen problem-solving skills.
 
 ---
 
@@ -59,11 +57,11 @@ Implemented a simple library domain model.
 #### Features
 - Created a `User` class.
 - Created an `Admin` class that inherits from `User`.
-- Created a `UserRecord` record for immutable data.
-- Applied encapsulation using private fields and public properties.
+- Created a `UserRecord` record.
+- Applied encapsulation using properties.
 - Added constructor validation.
 - Created an `INotifiable` interface.
-- Implemented the interface in `User` and `LibrarySystem`.
+- Implemented the interface in multiple classes.
 - Demonstrated polymorphism using an array of `INotifiable`.
 
 ---
@@ -78,12 +76,30 @@ Implemented a simple library domain model.
 
 ### Hands-on Lab
 - Created a list of users.
-- Filtered users using `Where()`.
+- Filtered data using `Where()`.
 - Selected user names using `Select()`.
-- Sorted users using `OrderBy()`.
 - Counted users using `Count()`.
 - Implemented an asynchronous method using `Task.Delay()`.
 - Handled invalid user input using `try-catch`.
+
+---
+
+## Day 5 – Git & GitHub Workflow
+
+### Topics Covered
+- Git Fundamentals
+- Feature Branch Workflow
+- Commit Messages
+- Pull Requests
+
+### Hands-on Lab
+- Created a feature branch.
+- Added a Week 1 README summary.
+- Committed the changes.
+- Pushed the branch to GitHub.
+- Opened a Pull Request.
+- Merged the Pull Request into the main branch.
+- Deleted the feature branch after merging.
 
 ---
 
@@ -103,3 +119,4 @@ Implemented a simple library domain model.
 - ✅ Day 2 Completed
 - ✅ Day 3 Completed
 - ✅ Day 4 Completed
+- ✅ Day 5 Completed
