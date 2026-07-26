@@ -17,7 +17,7 @@ This repository contains my work and progress during the BinX Backend Internship
 ### Hands-on Lab
 - Installed the .NET SDK.
 - Configured Visual Studio Code.
-- Created and ran the first C# console application.
+- Created and ran my first C# console application.
 - Connected the project to GitHub.
 
 ---
@@ -35,8 +35,9 @@ This repository contains my work and progress during the BinX Backend Internship
 - Methods
 
 ### Hands-on Lab
-- Built multiple console programs using C# fundamentals.
-- Practiced variables, operators, conditions, loops, arrays, and methods.
+- Built multiple console applications using C# fundamentals.
+- Practiced working with variables, operators, conditions, loops, arrays, and methods.
+- Improved problem-solving skills through hands-on coding exercises.
 
 ---
 
@@ -52,6 +53,7 @@ This repository contains my work and progress during the BinX Backend Internship
 - Polymorphism
 
 ### Hands-on Lab
+
 Implemented a simple library domain model.
 
 #### Features
@@ -66,7 +68,7 @@ Implemented a simple library domain model.
 
 ---
 
-## Day 4 – Collections, LINQ & Async
+## Day 4 – Collections, LINQ & Async Programming
 
 ### Topics Covered
 - Collections
@@ -120,3 +122,15 @@ Implemented a simple library domain model.
 - ✅ Day 3 Completed
 - ✅ Day 4 Completed
 - ✅ Day 5 Completed
+
+---
+
+# Week 1 Summary
+
+After completing the first week of the BinX Backend Internship, I gained a solid understanding of C# fundamentals and the core concepts required for backend development with .NET.
+
+Throughout this week, I practiced building console applications, applying object-oriented programming principles, working with collections and LINQ queries, implementing asynchronous methods, handling exceptions, and using Git and GitHub through feature branches and pull requests.
+
+The biggest lesson I learned is that software development is not only about writing code that works, but also about writing clean, organized, and maintainable code while following a professional development workflow.
+
+This week provided a strong foundation that will help me continue learning ASP.NET Core and build more advanced backend applications in the upcoming weeks.
