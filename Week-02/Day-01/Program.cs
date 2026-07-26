@@ -12,14 +12,14 @@ foreach (User user in userRepository.GetAll())
 
 Console.WriteLine();
 
-Repository<Product> productRepository = new Repository<Product>();
+Repository<Admin> adminRepository = new Repository<Admin>();
 
-productRepository.Add(new Product("Laptop"));
-productRepository.Add(new Product("Mouse"));
+adminRepository.Add(new Admin("Sara"));
+adminRepository.Add(new Admin("Ali"));
 
-Console.WriteLine("Products:");
+Console.WriteLine("Admins:");
 
-foreach (Product product in productRepository.GetAll())
+foreach (Admin admin in adminRepository.GetAll())
 {
-    Console.WriteLine(product.Name);
+    Console.WriteLine(admin.Name);
 }
