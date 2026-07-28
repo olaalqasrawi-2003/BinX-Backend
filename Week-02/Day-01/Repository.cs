@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-
+//Restricts T to reference types only.
 public class Repository<T> where T : class
 {
     private readonly List<T> _items = new();
