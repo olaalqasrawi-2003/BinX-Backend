@@ -1,3 +1,4 @@
+using MyFirstApi.Services;
 using Microsoft.AspNetCore.Mvc;
 namespace MyFirstApi.Controllers
 {
@@ -5,6 +6,18 @@ namespace MyFirstApi.Controllers
     [Route("api/[controller]")]
     public class ItemsController : ControllerBase
     {
+        private readonly IMessageSevice _messageService;
+        public ItemsController(IMessageSevice messageSevice)
+        {
+            _messageService = messageSevice;
+        }
+
+        [HttpGet("message")]
+         public IActionResult GetMessage()
+        {
+            return Ok(_messageService.GetMessage());
+        }
+       
        [HttpGet]  
        public IActionResult GetItems()
         {

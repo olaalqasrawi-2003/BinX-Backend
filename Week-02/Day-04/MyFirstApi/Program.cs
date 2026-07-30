@@ -1,11 +1,11 @@
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddSingleton<MyFirstApi.Services.IMessageSevice, MyFirstApi.Services.MessageSevice>();
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
-
-// Configure the HTTP request pipeline.
+app.UseMiddleware<MyFirstApi.Middleware.RequestLoggingMiddleware>();
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
