@@ -73,34 +73,34 @@ The API was tested using Postman.
 ---
 
 ### GET - Get Book By ID
-![GET Book By ID](Screenshots/Books-1.jpg)
+![GET Book By ID](image-6.png)
 
 ---
 
 ### POST - Create Book
 
-![POST Create Book](Screenshots/post.jpg)
+![POST Create Book](image-5.png)
 
 ---
 
 ### PUT - Update Book
 
-![PUT Update Book](Screenshots/put.jpg)
+![PUT Update Book](image.png)
 
 ---
 
 ### DELETE - Delete Book
 
-![DELETE Book](Screenshots/5.jpg)
+![DELETE Book](image-4.png)
 
 ---
 
 ### GET - Books By Category
 
-![Books By Category](Screenshots/book by category.jpg)
+![Books By Category](image-1.png)
 
 ---
 
 ### GET - Invalid Category
 
-![Invalid Category](Screenshots/invalid category.jpg)
+![Invalid Category](image-2.png)
