@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HelloBinX")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dca20f0b02bb9312386c70d43502b8718589e1d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94004ff3b5c525cccb059c398afbf80c48b4d2ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelloBinX")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelloBinX")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
