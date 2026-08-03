@@ -1,0 +1,15 @@
+C:\Users\Bisan\BinX-Backend-Internship\Week-03\Day-02\SchemaDesign\bin\Debug\net8.0\SchemaDesign.exe
+C:\Users\Bisan\BinX-Backend-Internship\Week-03\Day-02\SchemaDesign\bin\Debug\net8.0\SchemaDesign.deps.json
+C:\Users\Bisan\BinX-Backend-Internship\Week-03\Day-02\SchemaDesign\bin\Debug\net8.0\SchemaDesign.runtimeconfig.json
+C:\Users\Bisan\BinX-Backend-Internship\Week-03\Day-02\SchemaDesign\bin\Debug\net8.0\SchemaDesign.dll
+C:\Users\Bisan\BinX-Backend-Internship\Week-03\Day-02\SchemaDesign\bin\Debug\net8.0\SchemaDesign.pdb
+C:\Users\Bisan\BinX-Backend-Internship\Week-03\Day-02\SchemaDesign\obj\Debug\net8.0\SchemaDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bisan\BinX-Backend-Internship\Week-03\Day-02\SchemaDesign\obj\Debug\net8.0\SchemaDesign.AssemblyInfoInputs.cache
+C:\Users\Bisan\BinX-Backend-Internship\Week-03\Day-02\SchemaDesign\obj\Debug\net8.0\SchemaDesign.AssemblyInfo.cs
+C:\Users\Bisan\BinX-Backend-Internship\Week-03\Day-02\SchemaDesign\obj\Debug\net8.0\SchemaDesign.csproj.CoreCompileInputs.cache
+C:\Users\Bisan\BinX-Backend-Internship\Week-03\Day-02\SchemaDesign\obj\Debug\net8.0\SchemaDesign.sourcelink.json
+C:\Users\Bisan\BinX-Backend-Internship\Week-03\Day-02\SchemaDesign\obj\Debug\net8.0\SchemaDesign.dll
+C:\Users\Bisan\BinX-Backend-Internship\Week-03\Day-02\SchemaDesign\obj\Debug\net8.0\refint\SchemaDesign.dll
+C:\Users\Bisan\BinX-Backend-Internship\Week-03\Day-02\SchemaDesign\obj\Debug\net8.0\SchemaDesign.pdb
+C:\Users\Bisan\BinX-Backend-Internship\Week-03\Day-02\SchemaDesign\obj\Debug\net8.0\SchemaDesign.genruntimeconfig.cache
+C:\Users\Bisan\BinX-Backend-Internship\Week-03\Day-02\SchemaDesign\obj\Debug\net8.0\ref\SchemaDesign.dll
