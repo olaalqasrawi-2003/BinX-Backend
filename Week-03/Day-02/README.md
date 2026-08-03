@@ -83,19 +83,19 @@ Library Catalog
 
 ### Program Output (Part 1)
 
-![Program Output Part 1](Screenshots/terminal-output1.jpg)
+![Program Output Part 1](ScreenShots/terminal-output1.jpg)
 
 ---
 
 ### Program Output (Part 2)
 
-![Program Output Part 2](Screenshots/terminal-output2.jpg)
+![Program Output Part 2](ScreenShots/terminal-output2.jpg)
 
 ---
 
 ### Entity Relationship Diagram (ERD)
 
-![ERD](Screenshots/erd-diagram.jpg)
+![ERD](ScreenShots/erd-diagram.jpg)
 
 ---
 
