@@ -95,7 +95,7 @@ Library Catalog
 
 ### Entity Relationship Diagram (ERD)
 
-![ERD](Screenshots/erd-diagram.png)
+![ERD](Screenshots/erd-diagram.jpg)
 
 ---
 
