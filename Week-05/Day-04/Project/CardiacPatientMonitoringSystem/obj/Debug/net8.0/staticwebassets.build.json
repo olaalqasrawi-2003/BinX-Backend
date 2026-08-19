@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BfPKLvDAU2F0vET63GRFKlbPOjmtuMUzf0EedtVybrQ=",
+  "Source": "CardiacPatientMonitoringSystem",
+  "BasePath": "_content/CardiacPatientMonitoringSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
